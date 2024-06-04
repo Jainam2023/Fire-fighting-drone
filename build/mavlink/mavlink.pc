@@ -1,8 +1,0 @@
-prefix=/home/jainam/eigenform_ws/devel
-exec_prefix=/home/jainam/eigenform_ws/devel
-includedir=${prefix}/include
-
-Name: mavlink
-Description: MAVLink micro air vehicle marshalling / communication library
-Version: 2023.6.6
-Cflags: -I${includedir}
