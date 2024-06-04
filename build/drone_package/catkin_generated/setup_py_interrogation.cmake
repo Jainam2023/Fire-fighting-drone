@@ -1,0 +1,7 @@
+set(drone_package_SETUP_PY_SETUP_MODULE "setuptools")
+set(drone_package_SETUP_PY_VERSION "0.0.0")
+set(drone_package_SETUP_PY_SCRIPTS "")
+set(drone_package_SETUP_PY_PACKAGES "drone_package")
+set(drone_package_SETUP_PY_PACKAGE_DIRS "src/drone_package")
+set(drone_package_SETUP_PY_MODULES "")
+set(drone_package_SETUP_PY_MODULE_DIRS "")

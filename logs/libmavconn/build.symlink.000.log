@@ -1,0 +1,5 @@
+Symlinking /home/jainam/eigenform_ws/devel/lib/libmavconn.so
+Symlinking /home/jainam/eigenform_ws/devel/lib/pkgconfig/libmavconn.pc
+Symlinking /home/jainam/eigenform_ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+Symlinking /home/jainam/eigenform_ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+Symlinking /home/jainam/eigenform_ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake

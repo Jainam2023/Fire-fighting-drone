@@ -1,0 +1,4 @@
+Symlinking /home/jainam/eigenform_ws/devel/lib/python3/dist-packages/drone_package/__init__.py
+Symlinking /home/jainam/eigenform_ws/devel/lib/pkgconfig/drone_package.pc
+Symlinking /home/jainam/eigenform_ws/devel/share/drone_package/cmake/drone_packageConfig.cmake
+Symlinking /home/jainam/eigenform_ws/devel/share/drone_package/cmake/drone_packageConfig-version.cmake

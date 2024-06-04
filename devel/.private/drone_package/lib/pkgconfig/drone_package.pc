@@ -1,0 +1,8 @@
+prefix=/home/jainam/eigenform_ws/devel/.private/drone_package
+
+Name: drone_package
+Description: Description of drone_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
