@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jainam/vicon_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/jainam/catkin2_ws/devel/include/**",
+        "/home/jainam/eigenform_ws/src/drone_package/include/**",
+        "/home/jainam/catkin2_ws/src/iq_gnc/include/**",
+        "/home/jainam/catkin2_ws/src/mavros/libmavconn/include/**",
+        "/home/jainam/catkin2_ws/src/mavros/mavros/include/**",
+        "/home/jainam/catkin2_ws/src/mavros/mavros_msgs/include/**",
+        "/home/jainam/catkin2_ws/src/mavros/test_mavros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
