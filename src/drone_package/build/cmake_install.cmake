@@ -129,6 +129,10 @@ file(INSTALL DESTINATION "/usr/local" TYPE FILE FILES "/home/jainam/eigenform_ws
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  include("/home/jainam/eigenform_ws/src/drone_package/build/catkin_generated/safe_execute_install.cmake")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/jainam/eigenform_ws/src/drone_package/build/catkin_generated/installspace/drone_package.pc")
 endif()
 
